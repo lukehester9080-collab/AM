@@ -1,0 +1,9 @@
+{
+  "name": "Alert Manager",
+  "navigation": [
+    {"group": "Getting Started", "pages": ["index", "welcome", "quickstart"]},
+    {"group": "Platforms", "pages": ["platforms/youtube", "platforms/twitch", "platforms/kick", "platforms/tiktok"]},
+    {"group": "Configuration", "pages": ["configuration/alert-channels", "configuration/role-pinging", "configuration/limits"]},
+    {"group": "Reference", "pages": ["commands", "troubleshooting", "support"]}
+  ]
+}
